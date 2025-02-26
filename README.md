@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
-<h1 align="center">Hi 👋, I'm Verónica 🌻</h1>
+<h1 align="center">Hi 👋, I'm Verónica </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,7 +12,7 @@
   <img src="vero.webp" alt="Verónica GIF" width="350">
 </p>
 
-### 🌍 About Me:
+### 🌻 About Me:
 - 🌎 Remote worker from the Chilean Patagonia.  
 - 🤝 Available for freelancing opportunities.  
 - 🕵️‍♀️ **Specialist in Social Evaluation and Research.**  
@@ -34,6 +34,7 @@
 ## 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
