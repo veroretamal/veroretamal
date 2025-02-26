@@ -1,16 +1,24 @@
-## Hi there 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
-<!--
-**veroretamal/veroretamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="text-align: center;">Hi 👋, I'm Verónica</h1>
 
-Here are some ideas to get you started:
+<p style="text-align: center;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%235D3FD3&size=25&center=true&vCenter=true&width=600&height=100&lines=Verónica+Retamal+Arriagada;Sociologist+%7C+Researcher+%7C+Data+Analyst;Very+curious+person,+always+acquiring+new+knowledge">
+  </a>
+</p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="vero.webp">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently Working on my Github (work in progress)
+
+- 🌱 I’m currently self-learning about Data Analysis & Business Intelligence
+
+
+- 📫 How to reach me **veronicaretamalarriagada@gmail.com**
+
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/veronicaretamalarriagada/">Resume</a>
+<br/>
