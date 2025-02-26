@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
-<h1 style="text-align: center;">Hi 👋, I'm Verónica</h1>
+<h1 style="text-align: rigth;">Hi 👋, I'm Verónica🌻</h1>
 
 <p style="text-align: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -11,14 +11,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="vero.webp">
 </a>
 
+- 🌍 Remote worker from de chilean patagonia.
+  
 - 🤝 I’m available for freelancing.
+  
+- 🕵️‍♀️ I'm specialist in Social Evaluation and Reseach.
 
-- 🌱 I’m currently Working on my Github (work in progress)
+- 👩‍🎓 I’m currently self-learning about Data Analysis & Business Intelligence.
 
-- 🌱 I’m currently self-learning about Data Analysis & Business Intelligence
+- 🌱 I’m Working on my Github (work in progress).
 
+- 📫 You can reach me **veronicaretamalarriagada@gmail.com**.
 
-- 📫 How to reach me **veronicaretamalarriagada@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/veronicaretamalarriagada/">Resume</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/veronicaretamalarriagada/">LinkedIn</a>
 <br/>
